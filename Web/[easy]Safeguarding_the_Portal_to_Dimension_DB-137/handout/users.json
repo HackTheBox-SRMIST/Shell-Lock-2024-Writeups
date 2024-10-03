@@ -1,0 +1,32 @@
+{
+    "admin": {
+        "password": "adminpass",
+        "role": "admin",
+        "secret": "FLAG{admin_only_flag}"
+    },
+    "user1": {
+        "password": "user1pass",
+        "role": "user",
+        "secret": "User 1's private data"
+    },
+    "user2": {
+        "password": "user2pass",
+        "role": "user",
+        "secret": "User 2's private data"
+    },
+    "user3": {
+        "password": "user3pass",
+        "role": "user",
+        "secret": "User 3's private data"
+    },
+    "user4": {
+        "password": "user4pass",
+        "role": "user",
+        "secret": "User 4's private data"
+    },
+    "user5": {
+        "password": "user5pass",
+        "role": "user",
+        "secret": "User 5's private data"
+    }
+}
